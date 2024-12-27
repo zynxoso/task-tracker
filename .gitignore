@@ -1,0 +1,21 @@
+# PHP specific
+vendor/
+*.log
+
+# Database configuration (optional, depends on your security preferences)
+config/database.php
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Composer
+composer.phar
+composer.lock
+
+# Environment files
+.env
